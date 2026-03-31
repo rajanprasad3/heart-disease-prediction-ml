@@ -5,7 +5,7 @@ This project aims to predict the risk of heart disease using patient medical dat
 A machine learning model is trained on a healthcare dataset to classify whether a person is at risk or not.
 
 The project also includes a simple and interactive web application built using Streamlit for real-time predictions.
-
+Live app - https://heart-disease-prediction-ml2.streamlit.app/
 ---
 
 ## 🎯 Objective
@@ -62,11 +62,6 @@ The app allows users to:
 ---
 
 ## 🚀 How to Run the Project
-
-### 1. Clone Repository
-
-git clone https://github.com/your-username/heart-disease-prediction-app.git
-cd heart-disease-prediction-app
 
 pip install -r requirements.txt
 
